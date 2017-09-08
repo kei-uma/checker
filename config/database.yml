@@ -19,6 +19,6 @@ production:
   #database: db/production.sqlite3
  adapter: postgresql
  database: checker_production
- username: cms
+ username: ukeisuke1996@gmail.com
  pool: 5
  timeout: 5000
