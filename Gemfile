@@ -7,7 +7,7 @@ group :development do
 end
 group :production do
   gem 'pg', '0.17.1'
-end                                                                         
+end    
 #ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.16'
 #gem 'jruby', '1.7.16'
 
