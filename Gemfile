@@ -11,6 +11,9 @@ end
 #ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.16'
 #gem 'jruby', '1.7.16'
 
+# assets
+gem 'jquery-ui-rails', '4.1.1'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
