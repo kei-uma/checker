@@ -3,7 +3,9 @@ source 'https://rubygems.org'
 group :production do
   gem 'pg'
 end
-ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.16'
+#ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.16'
+#gem 'jruby', '1.7.16'
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
