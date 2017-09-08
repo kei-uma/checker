@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 group :production do
   gem 'pg'
 end
+ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.16'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
@@ -33,8 +34,9 @@ gem 'therubyrhino'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
-  gem 'sdoc', require: false
+ gem 'sdoc', require: false
 end
+
 
 gem 'warbler'
 
