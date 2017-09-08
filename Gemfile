@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'net-ssh'
-ruby '1.9.3', engine: "jruby", engine_version: "1.7.0" 
+ruby '1.9.3', engine: "jruby", engine_version: "1.7.27" 
 
 group :production do
   gem 'pg'

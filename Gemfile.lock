@@ -130,7 +130,7 @@ DEPENDENCIES
   warbler
 
 RUBY VERSION
-   ruby 1.9.3p203 (jruby 1.7.0)
+   ruby 1.9.3p551 (jruby 1.7.27)
 
 BUNDLED WITH
    1.16.0.pre.2
