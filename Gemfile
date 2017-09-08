@@ -6,7 +6,7 @@ group :development do
   gem 'sqlite3'
 end
 group :production do
-  gem 'pg', '0.17.1'
+#  gem 'pg', '0.17.1'
 end    
 #ruby '1.9.3', :engine => 'jruby', :engine_version => '1.7.16'
 #gem 'jruby', '1.7.16'
